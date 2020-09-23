@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Project2MultidiMencion", "Project2MultidiMencion\Project2MultidiMencion.dwproj", "{942BFBB8-13C8-42AB-AE1A-27675B1A9BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942BFBB8-13C8-42AB-AE1A-27675B1A9BA7}.Development|Default.ActiveCfg = Development
+		{942BFBB8-13C8-42AB-AE1A-27675B1A9BA7}.Development|Default.Build.0 = Development
+		{942BFBB8-13C8-42AB-AE1A-27675B1A9BA7}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2A83B2-F4CD-47E8-88F5-FA4D50789C34}
+	EndGlobalSection
+EndGlobal
